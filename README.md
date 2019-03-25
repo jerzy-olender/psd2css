@@ -1,1 +1,1 @@
-live: https://jerzy-olender.github.io/AD-VISIONS/
+https://jerzy-olender.github.io/psd2css/
